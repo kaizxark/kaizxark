@@ -1,1 +1,1 @@
-![Shaik Mohammed Ehtesham portfolio](./shaik0-website-preview.jpg)
+![Shaik Mohammed Ehtesham portfolio](./shaik0-portfolio.png)
