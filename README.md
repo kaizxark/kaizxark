@@ -2,7 +2,7 @@
 
 # Hi, I'm Shaik Md Ehtesham
 
-### AI/ML Engineering Student · Builder · Open Source Explorer
+### Developer · Builder · Open Source Explorer
 
 I build intelligent systems and developer tools with Python, TypeScript, PyTorch, FastAPI, Docker, and modern AI APIs.
 
@@ -68,7 +68,7 @@ A terminal AI agent exploring local storage as an external context layer for LLM
 
 ## Let's connect
 
-I’m open to conversations about AI engineering, LLM systems, developer tools, internships, collaborations, and interesting technical ideas.
+I’m open to conversations about AI engineering, LLM systems, developer tools, collaborations, and interesting technical ideas.
 
 - LinkedIn: [linkedin.com/in/kaizxark](https://www.linkedin.com/in/kaizxark/)
 - GitHub: [github.com/kaizxark](https://github.com/kaizxark)
