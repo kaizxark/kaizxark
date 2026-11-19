@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/kaizxark">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agents+%26+compiler-tier+context;Engineering+photorealistic+3D+game+engines+in+Godot+4.3;Scaling+enterprise+full-stack+ecosystems+in+React+19+%26+tRPC;Exploring+genomic+foundation+models+on+NVIDIA+H100s" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4500&pause=1000&delay=500&color=00F0FF&vCenter=true&width=800&lines=Building+autonomous+AI+agents+%26+compiler-tier+context;Engineering+photorealistic+3D+game+engines+in+Godot+4.3;Scaling+enterprise+full-stack+ecosystems+in+React+19+%26+tRPC;Exploring+genomic+foundation+models+on+NVIDIA+H100s" alt="Typing SVG" />
   </a>
 </p>
 
